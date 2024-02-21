@@ -966,7 +966,9 @@ span br:nth-child(1){
         display: block;
     }
    .footer{
+    width: 100%;
     display: flex;
+    justify-content: center;
     gap: 100px;
     h4{
         margin-top: 0;
