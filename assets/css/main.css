@@ -26,7 +26,10 @@ p{
 .hero-second{
     background-color: #fff;
 }
-
+.hero-container-ofthe{
+    color:#437EF7 ;
+    text-align: center;
+}
 body {
     background-color:#F8F9FB;
     font-family: "Inter", sans-serif;
